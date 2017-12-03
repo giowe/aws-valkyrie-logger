@@ -1,14 +1,11 @@
 {
   "name": "aws-valkyrie-utils",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "",
   "author": "Giovanni Bruno",
   "contributors": [
     "Giovanni Bruno <giovanni.bruno@soluzionifutura.it>"
   ],
-  "bin": {
-    "valk": "./bin/valk"
-  },
   "scripts": {},
   "repository": {
     "type": "git",
