@@ -13,15 +13,17 @@
   },
   "license": "ISC",
   "main": "main.js",
-  "devDependencies": {
-    "eslint": "^4.10.0"
-  },
   "bugs": {
     "url": "https://github.com/giowe/aws-valkyrie-utils/issues"
   },
   "homepage": "https://github.com/giowe/aws-valkyrie-utils#readme",
   "dependencies": {
-    "cli-spinner": "^0.2.7",
+    "aws-sdk": "^2.294.0",
+    "cli-spinner": "^0.2.8",
     "simple-argv": "^1.0.0"
+  },
+  "devDependencies": {
+    "@soluzioni-futura/eslint-config-soluzioni-futura": "^1.0.1",
+    "eslint": "^5.3.0"
   }
 }
